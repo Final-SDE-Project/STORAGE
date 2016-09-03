@@ -1,5 +1,5 @@
 #STORAGE Services
-This Service collects all kind of necessary data from database service and external adapter services. While it uses SOAP technologies with data base service, it is using REST technologies with external services. Communication between them is made by JSON messages. This service sends the data to Business-Logic and Process-Centric layers by using SOAP technology.
+This Service collects all kind of necessary data from data-service and external services. While it uses SOAP technologies to connect with data-service, it is connected to external adapter services using RESTful client. Communication between them is made by using JSON messages. This service sends the requested data to Business-Logic and Process-Centric services by using SOAP Protocol.
 
 ##WIKI Page
 https://github.com/Final-SDE-Project/STORAGE/wiki
